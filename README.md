@@ -50,12 +50,14 @@ These tools play a crucial role in my development workflow, ensuring efficiency,
 
 ## 🌐 Personal Projects
 
-### Library Management System
+### DevOps Integration with Jenkins and Docker
 
-Revolutionized library operations through a Python-based application.
+Engineered a robust DevOps pipeline, integrating Jenkins and Docker for efficient automation and deployment.
 
-- Implemented modules like Display Books, Lend Book, and Add Book for efficient catalog browsing, streamlined borrowing, and inventory management.
-- Engineered a robust Return Book module, ensuring systematic book return processes.
+- Created Dockerfile for containerization, ensuring consistent and scalable deployment.
+- Configured Jenkinsfile to automate build, test, and deployment processes seamlessly.
+- Orchestrated the integration between GitHub, Jenkins, and Docker Hub for a continuous and streamlined CI/CD pipeline.
+- Demonstrated expertise in DevOps practices, Docker containerization, and Jenkins automation for enhanced project efficiency and deployment reliability.
 
 ### Child Vaccine Tracker
 
